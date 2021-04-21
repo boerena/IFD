@@ -2,7 +2,7 @@
 
 ## Aufgabe 3
 <a href="https://github.com/boerena/IFD/blob/main/Low-Fid%20Prototype.pdf">  Low-Fid Prototype </a>
-<a href="https://github.com/boerena/IFD/blob/main/Low-Fid%20Prototype.pdf">  Prototype Tool </a>
+<a href="https://github.com/boerena/IFD/blob/main/SKETCH_Rena_Böhringer.pdf">  Prototype Tool </a>
 
 ## Aufgabe 3
 <a href="https://github.com/boerena/IFD/blob/main/Interaktive%20Datenvisualisierung1.pdf">  Interaktive Datenvisualisierung </a>
