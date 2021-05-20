@@ -1,6 +1,9 @@
 # IFD
 ## Aufgabe 7
+<a href="https://xd.adobe.com/view/3fa8d738-a0c3-49af-a57b-c4f244f49637-6afb/"> Verbesserter High-Fid Prototype </a> <br>
+<a href="https://github.com/boerena/IFD/blob/main/GUI.pdf"> Dokumentation </a> <br>
 <a href="https://github.com/boerena/IFD/blob/main/Test%20Prototyp.pdf"> Test und Evaluation </a>
+
 
 ## Aufgabe 5&6
 <a href="https://xd.adobe.com/view/3d99caa1-297c-4b6f-8825-497d803a6198-68ca/"> High-Fid Prototype </a> <br>
